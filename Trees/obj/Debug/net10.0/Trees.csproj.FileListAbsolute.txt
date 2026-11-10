@@ -1,0 +1,14 @@
+C:\Users\opitz\Projects\AVL-Trees\Trees\bin\Debug\net10.0\Trees.exe
+C:\Users\opitz\Projects\AVL-Trees\Trees\bin\Debug\net10.0\Trees.deps.json
+C:\Users\opitz\Projects\AVL-Trees\Trees\bin\Debug\net10.0\Trees.runtimeconfig.json
+C:\Users\opitz\Projects\AVL-Trees\Trees\bin\Debug\net10.0\Trees.dll
+C:\Users\opitz\Projects\AVL-Trees\Trees\bin\Debug\net10.0\Trees.pdb
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.AssemblyInfoInputs.cache
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.AssemblyInfo.cs
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.csproj.CoreCompileInputs.cache
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.dll
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\refint\Trees.dll
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.pdb
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.genruntimeconfig.cache
+C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\ref\Trees.dll
