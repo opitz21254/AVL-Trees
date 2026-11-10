@@ -12,3 +12,4 @@ C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\refint\Trees.dll
 C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.pdb
 C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\Trees.genruntimeconfig.cache
 C:\Users\opitz\Projects\AVL-Trees\Trees\obj\Debug\net10.0\ref\Trees.dll
+C:\Users\opitz\Projects\AVL-Trees\trees\obj\Debug\net10.0\Trees.sourcelink.json

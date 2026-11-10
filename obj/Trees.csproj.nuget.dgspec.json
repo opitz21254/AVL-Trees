@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opitz\\Projects\\AVL-Trees\\Trees\\Trees.csproj": {}
+    "C:\\Users\\opitz\\Projects\\AVL-Trees\\trees\\Trees.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opitz\\Projects\\AVL-Trees\\Trees\\Trees.csproj": {
+    "C:\\Users\\opitz\\Projects\\AVL-Trees\\trees\\Trees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opitz\\Projects\\AVL-Trees\\Trees\\Trees.csproj",
+        "projectUniqueName": "C:\\Users\\opitz\\Projects\\AVL-Trees\\trees\\Trees.csproj",
         "projectName": "Trees",
-        "projectPath": "C:\\Users\\opitz\\Projects\\AVL-Trees\\Trees\\Trees.csproj",
+        "projectPath": "C:\\Users\\opitz\\Projects\\AVL-Trees\\trees\\Trees.csproj",
         "packagesPath": "C:\\Users\\opitz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opitz\\Projects\\AVL-Trees\\Trees\\obj\\",
+        "outputPath": "C:\\Users\\opitz\\Projects\\AVL-Trees\\trees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\opitz\\AppData\\Roaming\\NuGet\\NuGet.Config"
